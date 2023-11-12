@@ -125,7 +125,7 @@ async def handler(event):
     await event.edit(f"{komutlar}", buttons=(
                       [
                       Button.url('📣 Söhbət Qrupu  ', f'https://t.me/OliqarxTeam'), #destek grubun linki
-                      Button.url('🇦🇿 SAHİB  ', f'https://t.me/{sahib}') #sahibin telegram profil linki
+                      Button.url('🇦🇿 SAHİB  ', f'https://t.me/{sahib} MuradAndMee') #sahibin telegram profil linki
                       ],
                       [
                       Button.inline("<  𝖦𝖾𝗋𝗂  >", data="start"),
@@ -369,7 +369,7 @@ async def etag(event):
         await event.respond("⛔ User tağ etmək işi dayandırıldı . . .",
                     buttons=(
                       [
-                       Button.url('📝  𝖪ANAL  📝', f'https://t.me/{support}')
+                       Button.url('📝  𝖪ANAL  📝', f'https://t.me/kohneFikirler')
                       ]
                     )
                   )
