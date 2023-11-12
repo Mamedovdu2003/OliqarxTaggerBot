@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+de# -*- coding: utf-8 -*-
 
 # (c) @maybeslow (Github) | https://t.me/birsamil | @birsamil (Telegram)
 
@@ -37,9 +37,9 @@ import random
 
 #
 # 
-api_id = 26090016 #my.telegram.org/apps adresinden alabilirsiniz 
-api_hash = "5b842f9801712684f2b98d70ead6538d" #my.telegram.org/apps adresinden alabilirsiniz
-bot_token = "6735913033:AAFAtIgbv046k_Dm37BZteAD3JCq40I1dWI" #botfatherdan alabilirsiniz
+api_id = 28979412 #my.telegram.org/apps adresinden alabilirsiniz 
+api_hash = "0016b3e3a334036da841062673a60f7e" #my.telegram.org/apps adresinden alabilirsiniz
+bot_token = "6477481906:AAFx-O2Csm-iBhYF33eE68oIVKof0olfnpU" #botfatherdan alabilirsiniz
 
 client = TelegramClient("Samil", api_id, api_hash).start(bot_token=bot_token)
 
